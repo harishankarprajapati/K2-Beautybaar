@@ -1,0 +1,59 @@
+
+
+/* -------1920--------- */
+
+@media only screen and (min-width:1920px) {
+
+  .container-fluid {
+    width: 1903px;
+  }
+  .teamimg{
+    width: 100%;
+    height: 338px;
+}
+.sectestibg {
+  background: #fff;
+  padding: 20px;
+  height: auto;
+}
+.secworbgg{
+  margin-top: -430px;
+  padding: 0;
+}
+.sec-space-left-right-nav {
+  padding: 0px 60px;
+}
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:767px) {
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
