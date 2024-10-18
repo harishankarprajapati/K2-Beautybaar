@@ -93,7 +93,7 @@ button.btn.btn-primary.videbttn {
 }
 
 .secpaddd {
-    padding: 50px 10px;
+    padding: 50px 10px 0px 10px;
 }
 
 .sextitall p {
@@ -281,9 +281,11 @@ button.accordion-button.collapsed {
     padding-left: 0px !important;
     border-radius: 0px;
 }
+
 .accordion-item {
     border: 0px;
 }
+
 .accordion-button:not(.collapsed) {
     background: #27252A !important;
     border: 0px !important;
@@ -292,10 +294,11 @@ button.accordion-button.collapsed {
 
 button:focus:not(:focus-visible) {
     outline: 0;
-    color: #DE968D   !important;
+    color: #DE968D !important;
     font-size: 20px;
     font-family: 'Libre Baskerville';
 }
+
 .accordion-body {
     background: #27252A;
     padding-left: 0px !important;
@@ -304,55 +307,67 @@ button:focus:not(:focus-visible) {
     margin: 0px;
     border-bottom: 1px solid #89868D;
 }
+
 .accordion-body p {
     color: #fff !important;
     padding-bottom: 20px;
     padding-bottom: 0px;
 }
-.accordion-button:focus{
+
+.accordion-button:focus {
     box-shadow: none !important;
 }
+
 .accordion-item {
     background-color: #27252A;
 }
-.accordion-button:not(.collapsed){
-    color: #DE968D   !important;
+
+.accordion-button:not(.collapsed) {
+    color: #DE968D !important;
     font-size: 20px;
     font-family: 'Libre Baskerville';
     padding-left: 0px !important;
 }
-.accordion-button::after{
+
+.accordion-button::after {
     background-image: url(../images/plus-icon.png) !important;
 }
-.accordion-button:not(.collapsed)::after{
+
+.accordion-button:not(.collapsed)::after {
     background-image: url(../images/mins-icon.png) !important;
 }
+
 .accordion-item:first-of-type .accordion-button {
     border-bottom: 1px solid #89868D;
     padding-left: 0px !important;
 }
 
-.seccourbg{
+.seccourbg {
     background-image: url(../images/COURSES-BG.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 60px 10px 300px 10px;
 }
-.sextitall h6{
+
+.sextitall h6 {
     text-align: center;
     font-family: 'Libre Baskerville';
     font-size: 16px;
 }
-.secpaco{
+
+.secpaco {
     padding-top: 30px;
 }
-.coutext{
+
+.coutext {
     border-bottom: 1px solid #cbcbcba9;
 }
-.coutext a{
+
+.coutext a {
     text-decoration: none;
 }
-.coutext a p{
+
+.coutext a p {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -362,14 +377,17 @@ button:focus:not(:focus-visible) {
     font-size: 22px;
     color: #27252A;
 }
-.secsriimg{
+
+.secsriimg {
     width: 70%;
 }
-.imgsetbgg{
+
+.imgsetbgg {
     margin-top: -220px;
     text-align: end;
     padding-bottom: 80px;
 }
+
 .sextitall4 p {
     font-family: 'Manrope';
     font-size: 20px;
@@ -388,8 +406,9 @@ button:focus:not(:focus-visible) {
 .secallbtn3 {
     padding-top: 90px;
     text-align: end;
-    
+
 }
+
 .secallbtn3 a {
     font-family: 'Manrope';
     font-size: 16px;
@@ -405,57 +424,68 @@ button:focus:not(:focus-visible) {
     background: #DE968D;
     color: #fff;
 }
-.sectembg{
+
+.sectembg {
     padding: 20px 0px 50px 0px;
 }
-.teamimg{
+
+.teamimg {
     width: 100%;
     height: 286px;
 }
 
-.secteamshree{
+.secteamshree {
     margin-top: -55px;
-    text-align: end;    
+    text-align: end;
     margin-right: 10px;
 }
-.secteamshree p span{
+
+.secteamshree p span {
     background: #fff;
     padding: 18px 20px;
 }
-.secteamshree p a span i{
+
+.secteamshree p a span i {
     color: #DE968D;
 }
-.secteamshree p span:hover{
+
+.secteamshree p span:hover {
     background: #DE968D;
 }
-.secteamshree p span:hover i{
+
+.secteamshree p span:hover i {
     color: #fff;
 }
-.secteamtext{
+
+.secteamtext {
     padding-top: 30px;
 }
-.secteamtext h4{
+
+.secteamtext h4 {
     font-family: 'Libre Baskerville';
     font-size: 22px;
     color: #27252A;
 }
-.secteamtext p{
+
+.secteamtext p {
     font-family: 'Libre Baskerville';
     color: #89868D;
     font-size: 18px;
 }
 
-.secmarqbg{
+.secmarqbg {
     background: #DE968D;
-    padding: 12px 10px 5px 10px ;
+    padding: 12px 10px 5px 10px;
 }
-.secmarqbg p{
+
+.secmarqbg p {
     margin: 0px;
     font-family: 'Libre Baskerville';
     font-size: 22px;
     color: #fff;
 }
-.testsecbg{
+
+.testsecbg {
     background: #27252A;
     padding: 50px 10px 20px 10px;
 }
@@ -476,75 +506,91 @@ button:focus:not(:focus-visible) {
     text-align: center;
     color: #fff;
 }
-.sectestibg{
+
+.sectestibg {
     background: #fff;
     padding: 20px;
-    height:220px;
+    height: 220px;
 }
-.revimgss{
+
+.revimgss {
     width: 58% !important;
 }
-.secrevimg{
-    border-right:1px solid #e9e9ea;
+
+.secrevimg {
+    border-right: 1px solid #e9e9ea;
 }
-.secrevimg p{
+
+.secrevimg p {
     font-family: 'Libre Baskerville';
     font-size: 16px;
     color: #27252A;
     padding-top: 50px;
     margin: 0;
 }
-.revimgss2{
+
+.revimgss2 {
     width: 80% !important;
 }
-.secrevtext h4{
+
+.secrevtext h4 {
     font-family: 'Libre Baskerville';
     font-size: 16px;
     color: #89868D;
     font-weight: 400;
 }
-.secrevtext h6{
+
+.secrevtext h6 {
     font-family: 'Libre Baskerville';
     font-size: 18px;
     color: #27252A;
     margin: 0;
     padding-top: 20px;
 }
-.secrevtext p{
+
+.secrevtext p {
     font-family: 'Libre Baskerville';
     font-size: 14px;
     color: #89868D;
 }
-.secrecbbgg{
+
+.secrecbbgg {
     padding-top: 20px;
 }
+
 .testid .owl-dots {
     text-align: center;
     padding-top: 15px;
-  }
- .testid .owl-dots button.owl-dot {
+}
+
+.testid .owl-dots button.owl-dot {
     width: 15px;
     height: 15px;
     border-radius: 50%;
     display: inline-block;
     background: #ccc;
     margin: 0 3px;
-  }
-  .testid .owl-dots button.owl-dot.active {
+}
+
+.testid .owl-dots button.owl-dot.active {
     background-color: #DE968D;
-  }
-  .testid .owl-dots button.owl-dot:focus {
+}
+
+.testid .owl-dots button.owl-dot:focus {
     outline: none;
-  }
-  .testid .owl-nav {
+}
+
+.testid .owl-nav {
     display: none;
 }
-.seccheck{
+
+.seccheck {
     color: #fff;
     font-size: 16px;
     font-family: 'Manrope';
 }
-.secinpart{
+
+.secinpart {
     color: #DE968D;
     font-size: 20px;
     font-family: 'Manrope';
@@ -552,16 +598,19 @@ button:focus:not(:focus-visible) {
     text-transform: uppercase;
     padding-top: 30px;
 }
-.secworbgg{
+
+.secworbgg {
     margin-top: -430px;
     padding: 0;
 }
-.secnewtext p{
+
+.secnewtext p {
     font-family: 'Libre Baskerville';
     font-size: 16px;
     color: #27252A;
 }
-.secnewtext p span{
+
+.secnewtext p span {
     background: #DE968D;
     padding: 5px 15px;
     color: #fff;
@@ -569,62 +618,71 @@ button:focus:not(:focus-visible) {
     border-radius: 50px;
     font-family: 'Libre Baskerville';
 }
-.secnewtext h4{
+
+.secnewtext h4 {
     font-family: 'Libre Baskerville';
     font-size: 22px;
     color: #27252A;
 }
-.secnewtext2 p{
+
+.secnewtext2 p {
     font-size: 16px;
     font-family: 'Manrope';
     color: #89868D;
     padding-top: 10px;
 }
-.secnewbbgg{
+
+.secnewbbgg {
     padding-top: 30px;
 }
-.secredbtn a{
+
+.secredbtn a {
     text-decoration: none;
     font-size: 16px;
     font-family: 'Manrope';
     color: #89868D;
     text-transform: uppercase;
 }
-.secredbtn a:hover{
+
+.secredbtn a:hover {
     color: #DE968D;
 }
-.seccountbg{
+
+.seccountbg {
     background: #DE968D;
     padding: 20px 10px;
 }
 
-.counter-box{
+.counter-box {
     display: flex;
     align-items: center;
     justify-content: center;
     font-family: 'Libre Baskerville';
     font-size: 36px;
-    color: #fff;    
+    color: #fff;
 }
 
-.counter-box span{
+.counter-box span {
     font-family: 'Libre Baskerville';
     font-size: 36px;
     color: #fff;
 }
-.counter-box p{
+
+.counter-box p {
     font-family: 'Manrope' !important;
     font-size: 16px !important;
     color: #fff;
     padding-left: 10px;
     margin: 0;
 }
-.footerbg{
+
+.footerbg {
     background-image: url(../images/footerbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 60px 10px;
 }
+
 .input-group {
     position: relative;
     display: flex;
@@ -632,65 +690,319 @@ button:focus:not(:focus-visible) {
     align-items: stretch;
     width: 100%;
 }
+
 button.btn.btn-default {
     background: #DE968D !important;
     border-radius: 0px;
     font-size: 30px;
     color: #fff;
 }
-#subscription_area{
+
+#subscription_area {
     margin-top: 50px;
 }
+
 .newheadtext {
     font-family: 'Libre Baskerville';
     font-size: 20px;
     color: #fff;
 }
+
 .menusec {
     padding-top: 20px;
 }
-.menusec p{
+
+.menusec p {
     margin: 0px;
     padding-bottom: 8px;
 }
-.menusec p a{
+
+.menusec p a {
     font-family: 'Libre Baskerville';
     font-size: 16px;
     color: #ffffff7c;
     text-decoration: none;
 }
+
 #subscription_area input.form-control {
     background: #45414B !important;
     border: 0px !important;
 
 }
-::placeholder{
-   color: #ffffff7c !important; 
+
+::placeholder {
+    color: #ffffff7c !important;
 }
-.seclettrp{
+
+.seclettrp {
     font-family: 'Libre Baskerville';
     font-size: 16px;
     color: #ffffff7c;
     text-decoration: none;
 }
-.seclettrp i{
- 
+
+.seclettrp i {
+
     color: #DE968D;
 }
-.footerbg2{
+
+.footerbg2 {
     background: #27252A;
 }
-.seccopy{
+
+.seccopy {
     font-family: 'Libre Baskerville';
     font-size: 14px;
     color: #ffffff7c;
 }
+
 .sectefle {
     color: #ffffff7c !important;
 }
-.teartextsec{
+
+.teartextsec {
     font-family: 'Libre Baskerville';
     font-size: 14px;
     color: #ffffff7c;
     text-decoration: none;
+}
+
+.aboutpagetext h3 {
+    font-family: 'Libre Baskerville';
+    font-size: 50px;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.aboutpagetext p {
+    font-family: 'Barlow';
+    font-size: 18px;
+    color: #fff;
+}
+
+.secmainheader2 {
+    background-image: url(../images/maiheadertittle.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding-bottom: 290px;
+}
+
+.secabbimgho {
+    margin-top: -210px;
+}
+
+.secabbimgho {
+    text-align: center;
+}
+
+.secabteexxt {
+    padding: 50px 0px;
+
+}
+
+.secimgaaabb {
+    width: 80%;
+}
+
+.secabteexxt p {
+    font-family: 'Manrope' !important;
+    font-size: 18px !important;
+    color: #000;
+    text-align: center;
+}
+
+.secValuesbg {
+    padding: 60px;
+}
+
+.valtext {
+    text-align: center;
+    font-family: 'Libre Baskerville';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    color: #202031;
+}
+
+.valumain {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 30px 0px 30px;
+}
+
+.valimg {
+    text-align: center;
+}
+
+.valimg h3 {
+    text-align: center;
+    font-family: 'Libre Baskerville';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: #202031;
+    padding-top: 20px;
+}
+
+.seccometext {
+    text-align: center;
+    font-family: 'Libre Baskerville';
+    font-size: 70px;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #DE968D;
+}
+
+label {
+    font-family: 'Libre Baskerville';
+    font-size: 18px;
+    color: #fff;
+    text-align: left;
+}
+
+.secabbimgho2 {
+    margin-top: -210px;
+}
+
+.form-control {
+    font-family: 'Roboto' !important;
+    font-size: 18px !important;
+    color: #9E9E9E !important;
+}
+
+.sec-menu-btn2 {
+    background: #DE968D;
+    font-family: 'Manrope';
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    padding: 12px 40px;
+    border: none;
+    border-radius: 0px;
+}
+
+.sec-btn-margin {
+    margin-top: 21px;
+}
+
+.sec-menu-btn2:hover {
+    color: #DE968D;
+    background: #fff;
+}
+
+.secmainheader3 {
+    background-image: url(../images/maiheadertittle.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding-bottom: 490px;
+}
+
+.secabbimgho3 {
+    margin-top: -480px;
+}
+
+.sec-erv-book {
+    padding: 40px 0px 20px 0px;
+}
+
+.sec-ser-hh {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-sev-book-h {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+    margin: 0;
+}
+
+.sec-sev-book-p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 368%;
+    margin: 0;
+    text-align: center;
+    color: #898989;
+}
+
+.sec-menu-btn22 {
+    background: #DE968D;
+    font-family: 'Manrope';
+    text-transform: uppercase;
+    border: 1px solid #DE968D;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #fff;
+    border-radius: 0;
+    border: 0;
+    padding: 10px 17px;
+}
+
+.sec-menu-btn22:hover {
+    color: #DE968D;
+    background: #fff;
+    border: 1px solid #DE968D;
+}
+
+.sec-bord-serv {
+    border-bottom: 1px solid #DCDCDC;
+    padding: 20px 0px 0px 0px;
+}
+
+.seccometext1 {
+    font-family: 'Libre Baskerville';
+    font-size: 70px;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.seccoursbg p {
+    font-family: 'Libre Baskerville';
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.secmainheader4 {
+    background-image: url(../images/maiheadertittle.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.secabbimgho4 {
+    margin-top: -180px;
+    padding-bottom: 50px;
+}
+
+.seccoursbg a {
+    text-decoration: none;
+}
+.seccoubgg2{
+    padding-top: 0px !important;
+}
+.secnewbgg{
+    padding-bottom: 50px;
 }
