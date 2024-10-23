@@ -1006,3 +1006,127 @@ label {
 .secnewbgg{
     padding-bottom: 50px;
 }
+.sechaddptex{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Manrope';
+}
+.secaretext{
+ font-size: 18px;
+    font-family: 'Manrope';
+    padding-top: 20px;
+}
+.secmp h3{
+    font-family: 'Libre Baskerville';
+    font-size: 40px;
+    color: #000;
+}
+
+.impsec2bgg {
+    background-color: #DE968D;
+    border-radius: 50%;
+    text-align: center;
+    padding: 52px 5px;
+}
+
+#Impactsec .counter-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Libre Baskerville';
+    font-size: 36px;
+    color: #000;
+}
+
+#Impactsec .counter-box span {
+    font-family: 'Libre Baskerville';
+    font-size: 40px;
+    color: #000;
+}
+
+.impsec2bgg p{
+    font-family: 'Manrope' !important;
+    font-size: 18px !important;
+    color: #000;
+    padding-left: 10px;
+    margin: 0;
+}
+#Impactsec{
+    padding: 0px 10px 50px 10px;
+}
+.secddp {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+#fanchisform ::placeholder {
+    color: #9E9E9E !important;
+}
+#fanchisform label {
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: #000;
+    text-align: left;
+}
+.secfranbtn{
+    background: #DE968D;
+    border: 1px solid #DE968D;
+    padding: 10px 40px;
+    font-family: 'Manrope';
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 0;
+}
+.secfranbtn:hover{
+    background: #fff;
+    border: 1px solid #DE968D;
+    color: #DE968D;
+}
+.secfeebg{
+    padding: 20px 0px 50px 0px;
+}
+.secccllbgg{
+    background: #DE968D;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.sectextff{
+    font-family: 'Libre Baskerville';
+    color: #fff;
+    font-size: 40px;
+    padding-top: 30px;
+    text-align: start  !important;
+    padding-left: 5px;
+}
+.secpaddleftright{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.secpaddleftright h3{
+    font-family: 'Libre Baskerville';
+    color: #202031;
+    font-size: 60px;
+    text-align: center;
+}
+.secshobgg{
+    background: #FFECDB;
+    padding: 20px;
+    height: 410px;
+}
+.secshobgg h4{
+    font-family: 'Libre Baskerville';
+    color: #000;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.secshobgg p{
+    font-family: 'Manrope';
+    color: #000;
+    font-size: 16px;
+}
+.secbtnpa{
+    padding-bottom: 50px;
+}
