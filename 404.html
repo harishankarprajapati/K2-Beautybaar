@@ -67,72 +67,29 @@
 </head>
 
 <body>
-    <div class="container-fluid secmainheader4">
+    <div class="container-fluid secmainheader44">
         <!-- header -->
         <div include-html="header.html" id="header-file"></div>
 
         <!-- hero -->
         <div class="container">
-            <h3 class="seccometext1">Courses</h3>
+            <!-- <h3 class="seccometext1">404</h3> -->
+
         </div>
 
     </div>
 
     <!-- about-img -->
-    <div class="container secabbimgho4">
+    <div class="container ">
+ <img class="img-fluid" src="images/404page.png" alt="">
 
-  <div class="row m-0">
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="courses-detail.html">
-                <img class="img-fluid" src="images/cours1.png" alt="">
-                <p>Hair</p>
-            </a>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="#">
-                <img class="img-fluid" src="images/cours2.png" alt="">
-                <p>Makeup</p>
-            </a>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="#">
-                <img class="img-fluid" src="images/cours3.png" alt="">
-                <p>Nail</p>
-            </a>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="#">
-                <img class="img-fluid" src="images/cours4.png" alt="">
-                <p>Skin</p>
-            </a>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="#">
-                <img class="img-fluid" src="images/cours5.png" alt="">
-                <p>international</p>
-            </a>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="seccoursbg">
-            <a href="#">
-                <img class="img-fluid" src="images/cours6.png" alt="">
-                <p>micro blading</p>
-            </a>
-        </div>
-    </div>
-  </div>
 
+        <div class="secbtnpag">
+            <a href="index.html">GO TO HOMEPAGE</a>
+        </div>
     </div>
+
+
 
 
 
@@ -154,65 +111,6 @@
     <script src='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js'></script>
 
     <script>
-        $('.owl-carousel.servessec').owlCarousel({
-            loop: true,
-            margin: 10,
-            dots: false,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            responsiveClass: true,
-            responsive: {
-                0: {
-                    items: 1,
-
-                },
-                600: {
-                    items: 1,
-
-                },
-                1000: {
-                    items: 1,
-                }
-            }
-        })
-
-        $('.owl-carousel').owlCarousel({
-            loop: true,
-            margin: 10,
-            responsiveClass: true,
-            responsive: {
-                0: {
-                    items: 3,
-                    nav: true
-                },
-                600: {
-                    items: 3,
-                    nav: false
-                },
-                1000: {
-                    items: 6,
-                    nav: true,
-                    loop: false
-                }
-            }
-        })
-
-        // back to top  // 
-        var btn = $('#button');
-
-        $(window).scroll(function () {
-            if ($(window).scrollTop() > 300) {
-                btn.addClass('show');
-            } else {
-                btn.removeClass('show');
-            }
-        });
-
-        btn.on('click', function (e) {
-            e.preventDefault();
-            $('html, body').animate({ scrollTop: 0 }, '300');
-        });
-        //***********//
 
     </script>
 </body>

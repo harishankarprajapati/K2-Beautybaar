@@ -1130,3 +1130,98 @@ label {
 .secbtnpa{
     padding-bottom: 50px;
 }
+.secaretext2{
+    font-size: 18px;
+    font-family: 'Manrope';
+}
+.secaretext3{
+    font-size: 20px;
+    font-family: 'Manrope';
+    font-weight: 700;
+}
+.coubgsec{
+    padding-bottom: 50px;
+}
+.secoudebg{
+    background: #FFECDB;
+    padding: 20px;
+}
+.secclouytext{
+    font-family: 'Libre Baskerville';
+    color: #000;
+    font-size: 60px;
+    text-align: center;
+}
+.secoudebg h5{
+    font-family: 'Libre Baskerville';
+    color: #000;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.secoudebg2{
+    padding-top: 25px;
+}
+.secoudebg2 p{
+    margin: 0px;
+    margin-top: 5px;
+    font-size: 18px;
+    font-family: 'Manrope';
+}
+.secoudebg2 p i{
+    color: #00B027;
+}
+.us-bg {
+    background: #000;
+    padding: 20px;
+}
+.us-bg h3 {
+    color: #DE968D;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.sec-map-icon {
+    color: #C50;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-top: 9px;
+}
+.sec-location {
+    color: #fff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+}
+.secmainheader44 {
+    background-image: url(../images/maiheadertittle.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.secbtnpag{
+margin-top: -120px;
+margin-left: 120px;
+margin-bottom: 150px;
+}
+.secbtnpag a{
+    background: #DE968D;
+    border: 1px solid #DE968D;
+    padding: 10px 40px;
+    font-family: 'Manrope';
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 0;
+    text-decoration: none;
+}
+.secbtnpag a:hover{
+    background: #fff;
+    border: 1px solid #DE968D;
+    color: #DE968D;
+}
