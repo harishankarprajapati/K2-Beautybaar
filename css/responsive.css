@@ -44,6 +44,9 @@
   .maiheadertittle h1 {
     font-size: 40px;
 }
+.seccooww{
+  width: 50%;
+}
 br{
   display: none;
 }
@@ -57,7 +60,7 @@ br{
   font-size: 18px;
 }
 button.btn.btn-primary.videbttn {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-left: 0px;
 }
 .sextitall h4 {
