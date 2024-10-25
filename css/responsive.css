@@ -251,6 +251,39 @@ button.accordion-button.collapsed {
 .sectefle {
   text-align: center;
 }
+.secabbimgho {
+  margin-top: -98px;
+}
+.secmainheader2 {
+  padding-bottom: 152px;
+}
+.aboutpagetext p , .secabteexxt p{
+  font-size: 16px !important;
+}
+.secabteexxt {
+  padding: 50px 0px 0px 0px;
+}
+.secValuesbg {
+  padding: 50px 0px;
+}
+.valumain {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px 30px 0px 30px;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+.valimg {
+  text-align: center;
+  width: 47%;
+  border: 1px solid #DE968D;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.valimg h3 {
+  font-size: 15px;
+}
 
 }
 
