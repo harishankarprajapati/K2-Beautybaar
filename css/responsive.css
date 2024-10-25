@@ -40,6 +40,92 @@
 
 
 
+
+
+@media only screen and (max-width:999px) {
+  .maiheadertittle h1 {
+    font-size: 50px;
+  }
+  br{
+    display: none;
+  }
+  .seccooww{
+    width: 50%;
+  }   
+  .sextitall h4 {
+    font-size: 36px;
+  }
+  .secsubp2 {
+    font-size: 80px !important;
+  }
+  .secwitser {
+    width: 33.33%;
+}
+.secallbtn {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+.secourtext {
+  font-size: 14px;
+}
+.secletbg p {
+  font-size: 14px;
+}
+.sextitall2 h4 {
+  font-size: 36px;
+}
+.sechodbg {
+  padding: 60px 10px;
+}
+.sextitall3 h4 {
+  font-size: 26px;
+}
+.coutext a p {
+  font-size: 15px;
+}
+.imgsetbgg {
+  margin-top: -124px;
+}
+.seccourbg {
+  padding: 60px 10px 185px 10px;
+}
+.sextitall4 h4 {
+  font-size: 38px;
+}
+.teamimg {
+  width: 100%;
+  height: auto;
+}
+.secteamtext h4 {
+  font-size: 13px;
+}
+.secteamtext p {
+  font-size: 12px;
+}
+.sextitall5 h4 {
+  font-size: 34px;
+}
+.revimgss {
+  width: 21% !important;
+}
+.secnewtext h4 {
+  font-size: 19px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width:767px) {
   .offcanvas-header {
     background: #000;
