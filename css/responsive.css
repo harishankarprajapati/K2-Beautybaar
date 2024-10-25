@@ -42,7 +42,10 @@
 
 @media only screen and (max-width:767px) {
   .maiheadertittle h1 {
-    font-size: 54px;
+    font-size: 40px;
+}
+br{
+  display: none;
 }
 .container-fluid.pt-3.sec-menu-bgg {
   padding: 0px;
