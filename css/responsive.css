@@ -41,6 +41,25 @@
 
 
 @media only screen and (max-width:767px) {
+  .offcanvas-header {
+    background: #000;
+}
+a.nav-link.px-4.headermenusec {
+  color: #000;
+  padding: 0px 0px 10px 0px;
+}
+.headermenusec2btn {
+  background: transparent;
+  color: #000;
+  padding: 0px 0px 0px 26px !important;
+}
+  button.navbar-toggler {
+    height: 55px;
+    border: 2px solid #DE968D;
+}
+a.navbar-brand {
+  width: 36%;
+}
   .maiheadertittle h1 {
     font-size: 40px;
 }
