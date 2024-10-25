@@ -348,6 +348,9 @@ button.accordion-button.collapsed {
 }
 .coubgsec {
   padding-bottom: 30px;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
 }
 
 }
