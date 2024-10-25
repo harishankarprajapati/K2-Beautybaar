@@ -316,7 +316,7 @@ button.accordion-button.collapsed {
   text-align: center;
 }
 .seccometext1 {
-  font-size: 40px;
+  font-size: 35px;
 }
 .seccoursbg {
   border: 1px solid #DE968D;
@@ -351,6 +351,50 @@ button.accordion-button.collapsed {
   padding-left: 0px;
   padding-top: 0px;
   padding-right: 0px;
+}
+.sechaddptex {
+  font-size: 16px;
+}
+.seccolww{
+  width: 50%;
+}
+.secpaddleftright {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 40px;
+}
+.secpaddleftright h3 {
+  font-size: 30px;
+}
+.impsec2bgg {
+  padding: 37px 0px;
+  margin-bottom: 20px;
+}
+#Impactsec {
+  padding: 0px 10px 20px 10px;
+}
+#Impactsec .counter-box span {
+  font-size: 32px;
+}
+#Impactsec .counter-box {
+  font-size: 32px;
+}
+.sectextff {
+  font-size: 30px;
+  text-align: center !important;
+}
+form#fanchisform {
+  padding-top: 25px;
+}
+form#fanchisform {
+  padding-top: 25px;
+}
+.secpddww{
+  padding: 0px;
+}
+.secshobgg {
+  height: auto;
+  margin-bottom: 20px;
 }
 
 }
