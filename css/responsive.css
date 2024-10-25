@@ -287,7 +287,34 @@ button.accordion-button.collapsed {
 .secimgw{
   width: 42% !important;
 }
-
+.seccometext {
+  font-size: 25px;
+}
+.sec-erv-book {
+  padding: 60px 0px 0px 0px;
+}
+.secformpading {
+  padding: 0px;
+}
+.sec-ser-hh {
+  font-size: 20px;
+}
+.shadow.p-5.mb-5.bg-white.rounded {
+  padding: 50px 10px 10px 10px !important;
+}
+.sec-sev-book-p {
+  line-height: normal;
+}
+.sec-cent-c {
+  text-align: center;
+}
+.sec-menu-btn22 {
+  font-size: 15px;
+}
+.sec-sev-book-h {
+  font-size: 19px;
+  text-align: center;
+}
 }
 
 
