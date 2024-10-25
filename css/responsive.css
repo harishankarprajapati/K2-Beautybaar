@@ -315,6 +315,23 @@ button.accordion-button.collapsed {
   font-size: 19px;
   text-align: center;
 }
+.seccometext1 {
+  font-size: 40px;
+}
+.seccoursbg {
+  border: 1px solid #DE968D;
+  margin-bottom: 20px;
+}
+.seccoursbg p {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin: 0px;
+  padding-left: 4px;
+}
+.secabbimgho4 {
+  padding-bottom: 30px;
+}
+
 }
 
 
