@@ -62,6 +62,7 @@ a.navbar-brand {
 }
   .maiheadertittle h1 {
     font-size: 40px;
+    padding-top: 20px;
 }
 .seccooww{
   width: 50%;
@@ -77,6 +78,7 @@ br{
 }
 .maiheadertittle p {
   font-size: 18px;
+  padding-bottom: 20px;
 }
 button.btn.btn-primary.videbttn {
   padding-top: 10px;
