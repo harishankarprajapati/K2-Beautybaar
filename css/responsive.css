@@ -331,6 +331,24 @@ button.accordion-button.collapsed {
 .secabbimgho4 {
   padding-bottom: 30px;
 }
+.secaretext , .secaretext2{
+  font-size: 16px;
+}
+.secclouytext {
+  font-size: 40px;
+}
+.secoudebg {
+  margin-bottom: 10px;
+}
+.secoudebg h5 {
+  font-size: 25px;
+}
+.secoudebg2 p {
+  font-size: 16px;
+}
+.coubgsec {
+  padding-bottom: 30px;
+}
 
 }
 
