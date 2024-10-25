@@ -43,9 +43,184 @@
 @media only screen and (max-width:767px) {
   .maiheadertittle h1 {
     font-size: 54px;
-    font-family: 'Libre Baskerville';
-    color: #fff;
 }
+.container-fluid.pt-3.sec-menu-bgg {
+  padding: 0px;
+}
+.secmobilepadd{
+  padding: 0;
+}
+.maiheadertittle p {
+  font-size: 18px;
+}
+button.btn.btn-primary.videbttn {
+  padding-top: 30px;
+  padding-left: 0px;
+}
+.sextitall h4 {
+  font-size: 22px;
+}
+.sextitall p {
+  font-size: 15px;
+}
+.sextitall3 h4 {
+  font-size: 22px;
+}
+.abbtext p {
+  margin: 0;
+  font-size: 15px;
+}
+.secsubp2 {
+  font-size: 75px !important;
+}
+.abbtext img{
+  padding-bottom: 40px;
+}
+.secourtext {
+  font-size: 16px;
+  padding-top: 20px;
+}
+.secallbtn {
+  padding-top: 30px;
+  padding-bottom: 50px;
+
+}
+.secletbg p {
+  font-size: 14px;
+}
+
+.sextitall2 p {
+  font-size: 15px;
+}
+
+.sextitall2 h4 {
+  font-size: 22px;
+}
+.secwitser{
+  width: 50%;
+}
+.secbggser h4 {
+  font-size: 15px;
+}
+.sechodbg {
+  padding: 20px 0px;
+}
+.sextitall3 p{
+  font-size: 15px;
+}
+.accordion-button:not(.collapsed) {
+  font-size: 17px;
+}
+button.accordion-button.collapsed {
+  font-size: 17px;
+}
+.seccourall {
+  border: 1px solid #b3b3b3;
+  margin-bottom: 25px;
+}
+.imgsetbgg {
+  margin-top: -52px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.seccourbg {
+  padding: 60px 10px 102px 10px;
+}
+.sextitall4 p{
+  font-size: 15px;
+}
+.sextitall4 h4{
+  font-size: 22px;
+}
+.secallbtn3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: start;
+}
+.teamimg {
+  width: 100%;
+  height: 384px;
+}
+.secteam{
+  border: 1px solid #e9e1e1;
+  margin-bottom: 25px;
+}
+.sextitall5 p{
+  font-size: 15px;
+}
+.sextitall5 h4{
+  font-size: 22px;
+}
+.revimgss {
+  width: 22% !important;
+  margin: auto;
+}
+.sectestibg {
+  height: auto;
+  text-align: center;
+}
+.secrevimg p {
+  padding-top: 20px;
+}
+.revimgss2 {
+  width: 55% !important;
+  margin: auto;
+  padding: 10px 0px;
+}
+.secpaco {
+  padding: 10px 0px;
+}
+.sectembg {
+  padding: 20px 0px 30px 0px;
+}
+.secworbgg {
+  margin-top: 0px;
+  padding: 0;
+}
+.secimgww{
+  padding-bottom: 20px;
+}
+.secnewbgg {
+  border: 1px solid #e9e1e1;
+  margin-bottom: 25px;
+  padding: 5px;
+}
+.secwwcount{
+  width: 50%;
+}
+.counter-box {
+  display: block;
+  text-align: center;
+
+}
+.counter-box p {
+  font-size: 13px !important;
+}
+.footerbg {
+  padding: 40px 10px 0px 10px;
+}
+.seccpaddmob{
+  padding: 0px;
+}
+#subscription_area {
+  margin-top: 10px;
+}
+.newheadtext {
+  padding-top: 30px;
+}
+.menusec {
+  padding-top: 10px;
+}
+.footerbg2 {
+  padding-bottom: 30px;
+}
+.seccopy {
+  text-align: center;
+}
+.sectefle {
+  text-align: center;
+}
+
 }
 
 
