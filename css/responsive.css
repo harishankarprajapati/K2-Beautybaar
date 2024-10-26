@@ -152,7 +152,9 @@ br{
 .secmainheader4 {
   padding-bottom: 110px;
 }
-
+.abbtext img {
+  padding-bottom: 0px;
+}
 
 
 
@@ -312,6 +314,9 @@ img.img-fluid.secimgw {
 .secabteexxt {
   padding: 50px 0px 0px 0px;
 }
+.abbtext img {
+  padding-bottom: 0px;
+}
 }
 
 
@@ -428,7 +433,7 @@ button.btn.btn-primary.videbttn {
   font-size: 22px;
 }
 .secwitser{
-  width: 50%;
+  width: 50%  !important;
 }
 .secbggser h4 {
   font-size: 15px;
@@ -533,6 +538,7 @@ button.accordion-button.collapsed {
 .seccpaddmob{
   padding: 0px;
 }
+
 #subscription_area {
   margin-top: 10px;
 }
