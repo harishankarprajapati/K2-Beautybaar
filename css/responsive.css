@@ -7,6 +7,9 @@
   .container-fluid {
     width: 1903px;
   }
+  button.btn.btn-primary.videbttn img {
+    width: 65% !important;
+}
   .sec-logo-img{
     width: 80% !important;
   }

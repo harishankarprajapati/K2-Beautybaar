@@ -9,11 +9,13 @@
 a.nav-link.px-4.headermenusec {
     font-size: 15px;
     text-transform: uppercase !important;
-    font-weight: 500;
+    font-weight: 400;
     font-family: 'Manrope';
     color: #fff;
 }
-
+button.btn.btn-primary.videbttn img {
+    width: 80% !important;
+}
 a.nav-link.dropdown-toggle.headermenusec {
     font-size: 15px;
     text-transform: uppercase !important;
@@ -72,6 +74,7 @@ a.nav-link.dropdown-toggle.headermenusec {
 button.btn.btn-primary.videbttn {
     background: transparent;
     border: 0px;
+    text-align: start;
 }
 
 .secsubp {
