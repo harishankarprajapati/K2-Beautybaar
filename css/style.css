@@ -688,17 +688,26 @@ button:focus:not(:focus-visible) {
 
 .input-group {
     position: relative;
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     align-items: stretch;
     width: 100%;
+}
+.input-group input {
+    width: 100% !important;
+    height: 70px;
+    border-radius: 0px;
+}
+.secbtnsubs{
+    margin-top: -74px;
+    text-align: end;
 }
 
 button.btn.btn-default {
     background: #DE968D !important;
     border-radius: 0px;
     font-size: 30px;
-    color: #fff;
+    color: #fff !important;
 }
 
 #subscription_area {
@@ -1283,4 +1292,7 @@ margin-bottom: 150px;
     }
     .abbtext img {
         padding-bottom: 50px;
+    }
+    .secneesub{
+        margin: 10px 6px 10px 10px;
     }
