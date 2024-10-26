@@ -1271,11 +1271,13 @@ margin-bottom: 150px;
         font-family: sans-serif;
         text-decoration: none !important;
         transition: all 300ms ease-in-out;
-    }
-    
+    }   
     
     .text_icon {
         margin-top: 8px;
         color: #707070;
         font-size: 13px;
+    }
+    .abbtext img {
+        padding-bottom: 50px;
     }
