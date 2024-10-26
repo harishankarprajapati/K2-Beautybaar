@@ -7,6 +7,9 @@
   .container-fluid {
     width: 1903px;
   }
+  .revimgss {
+    width: 44% !important;
+}
   button.btn.btn-primary.videbttn img {
     width: 65% !important;
 }
