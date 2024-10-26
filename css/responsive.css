@@ -7,6 +7,9 @@
   .container-fluid {
     width: 1903px;
   }
+  .sec-logo-img{
+    width: 80% !important;
+  }
   .secpaddd {
     padding: 50px 10px 50px 10px;
 }
