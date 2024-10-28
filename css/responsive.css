@@ -12,7 +12,8 @@
     width: 65% !important;
 }
 .secrevtext h4 {
-  font-size: 20px;
+  font-size: 16px;
+  line-height: 27px;
   }
 .secbggser {
   padding: 30px 10px;
@@ -21,7 +22,7 @@
     width: 80% !important;
   }
   .secpaddd {
-    padding: 50px 10px 50px 10px;
+    padding: 100px 10px 100px 10px;
 }
   .teamimg{
     width: 100%;
@@ -51,7 +52,11 @@
 .impsec2bgg {
   padding: 67px 5px;
 }
-
+.secourtext {
+  font-size: 16px;
+  line-height: 30px;
+  color: #89868D;
+}
 }
 
 

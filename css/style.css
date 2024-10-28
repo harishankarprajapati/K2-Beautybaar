@@ -53,7 +53,7 @@ a.nav-link.dropdown-toggle.headermenusec {
 
 .sebbtnhom {
     background: #DE968D;
-    font-size: 13px;
+    font-size: 16px;
     text-transform: uppercase !important;
     font-weight: 700;
     font-family: 'Manrope';
@@ -61,7 +61,9 @@ a.nav-link.dropdown-toggle.headermenusec {
     padding: 15px 24px;
     text-decoration: none;
 }
-
+.secstart img {
+    width: 50%;
+}
 .sebbtnhom:hover {
     color: #DE968D;
     background: #fff;
