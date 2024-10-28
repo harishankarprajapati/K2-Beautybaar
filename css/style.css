@@ -29,10 +29,13 @@ a.nav-link.dropdown-toggle.headermenusec {
     font-size: 15px;
     text-transform: uppercase !important;
     font-weight: 600;
+    padding: 15px 24px;
     font-family: 'Manrope';
     color: #fff;
 }
-
+.secbggser p {
+    margin-top: -10px;
+}
 .maiheadertittle h1 {
     font-size: 90px;
     font-family: 'Libre Baskerville';
@@ -697,19 +700,20 @@ button:focus:not(:focus-visible) {
 }
 .input-group input {
     width: 100% !important;
-    height: 70px;
+    height: 55px;
     border-radius: 0px;
 }
 .secbtnsubs{
-    margin-top: -74px;
+    margin-top: -60px;
     text-align: end;
 }
 
 button.btn.btn-default {
     background: #DE968D !important;
     border-radius: 0px;
-    font-size: 30px;
+    font-size: 20px;
     color: #fff !important;
+    z-index: 999;
 }
 
 #subscription_area {
