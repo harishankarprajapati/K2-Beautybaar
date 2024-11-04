@@ -1313,5 +1313,6 @@ margin-bottom: 150px;
         padding: 15px 22px !important;
         color: #fff !important;
         font-size: 20px !important;
+        z-index: 999;
     }
 
