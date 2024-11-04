@@ -218,6 +218,9 @@ br{
   .offcanvas-header {
     background: #000;
 }
+.navbar-nav.justify-content-end.align-items-center.flex-grow-1.pe-3 {
+  align-items: start !important;
+}
 a.nav-link.px-4.headermenusec {
   color: #000;
   padding: 0px 0px 10px 0px;
@@ -790,5 +793,8 @@ form#fanchisform {
 }
 .secrevimg {
   border-right: 0px;
+}
+.navbar-nav.justify-content-end.align-items-center.flex-grow-1.pe-3 {
+  align-items: start !important;
 }
 }
