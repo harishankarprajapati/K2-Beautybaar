@@ -72,6 +72,12 @@
 .seccontbg{
   padding: 50px 0px 100px 0px;
 }
+.secbggser {
+  background: #E7E7E7;
+  padding: 30px 10px 10px 10px;
+  margin-top: 0px;
+  height: 226px;
+}
 }
 
 
@@ -740,5 +746,8 @@ form#fanchisform {
 }
 .secpaadwpp{
   padding-top: 20px;
+}
+.col-lg-8.secstart.secmobilepadd.seccooww img {
+  margin-top: -38px;
 }
 }
