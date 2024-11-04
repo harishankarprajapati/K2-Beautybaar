@@ -605,6 +605,16 @@ button.accordion-button.collapsed {
 .aboutpagetext p , .secabteexxt p{
   font-size: 16px !important;
 }
+.secteamtext {
+  padding-top: 30px;
+  padding-left: 10px;
+}
+.secteamtext h4 {
+  font-size: 20px;
+}
+.secteamtext p {
+  font-size: 16px;
+}
 .secabteexxt {
   padding: 50px 0px 0px 0px;
 }
