@@ -551,6 +551,9 @@ button.accordion-button.collapsed {
   padding-bottom: 20px;
   width: 49%;
 }
+.secnewtext2 hr {
+  display: none;
+}
 .secnewbgg {
   border: 1px solid #e9e1e1;
   margin-bottom: 25px;
