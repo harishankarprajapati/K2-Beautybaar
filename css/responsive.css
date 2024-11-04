@@ -736,6 +736,10 @@ button.accordion-button.collapsed {
   padding: 37px 0px;
   margin-bottom: 20px;
 }
+.menusec p {
+  margin: 0px;
+  padding-bottom: 13px;
+}
 #Impactsec {
   padding: 0px 10px 20px 10px;
 }
