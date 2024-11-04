@@ -749,5 +749,6 @@ form#fanchisform {
 }
 .col-lg-8.secstart.secmobilepadd.seccooww img {
   margin-top: -38px;
+  width: 70% !important;
 }
 }
