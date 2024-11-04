@@ -1252,7 +1252,7 @@ margin-bottom: 150px;
     }
     .floating_btn {
         position: fixed;
-        bottom: 30px;
+        bottom: 0px;
         left: 30px;
         width: 100px;
         height: 100px;
