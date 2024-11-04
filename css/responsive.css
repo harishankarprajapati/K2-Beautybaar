@@ -544,7 +544,12 @@ button.accordion-button.collapsed {
   padding: 0;
 }
 .secimgww{
+  padding-bottom: 0px;
+  width: 49%;
+}
+.secimgww2{
   padding-bottom: 20px;
+  width: 49%;
 }
 .secnewbgg {
   border: 1px solid #e9e1e1;
