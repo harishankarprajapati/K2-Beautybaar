@@ -86,11 +86,41 @@ button#back-to-up {
     color: #fff !important;
     font-size: 34px !important;
 }
+.secletbg2 img{
+width: 60% !important;
+}
+.valimg h3 {
+  font-size: 24px;
+  line-height: 35px;
+}
+}
+
+@media only screen and (max-width: 1200px) {
+  .navbar-nav.justify-content-end.align-items-center.flex-grow-1.pe-3 {
+      align-items: start !important;
+  }
+  a.nav-link.px-4.headermenusec {
+    color: #000;
+    padding: 0px 0px 10px 0px;
+}
+.offcanvas-header {
+  background: #000;
+}
+.headermenusec2btn {
+  background: transparent;
+  color: #000;
+  padding: 0px 0px 0px 26px !important;
+}
 }
 
 
 
+
+
 @media only screen and (max-width:1100px) {
+  .navbar-nav.justify-content-end.align-items-center.flex-grow-1.pe-3 {
+    align-items: start !important;
+}
   .offcanvas-header {
     background: #000;
 }
@@ -211,6 +241,8 @@ br{
 
 
 }
+
+
 
 
 
