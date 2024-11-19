@@ -387,13 +387,14 @@ button:focus:not(:focus-visible) {
 }
 
 .secsriimg {
-    width: 70%;
+    width: 100%;
 }
 
 .imgsetbgg {
     margin-top: -220px;
-    text-align: end;
     padding-bottom: 80px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .sextitall4 p {

@@ -600,7 +600,10 @@ button.accordion-button.collapsed {
 .secnewbgg {
   border: 1px solid #e9e1e1;
   margin-bottom: 25px;
-  padding: 10px 5px;
+  padding: 10px 10px;
+}
+.secmobcoo{
+  padding-top: 35px;
 }
 .secwwcount{
   width: 50%;
