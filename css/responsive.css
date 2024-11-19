@@ -600,7 +600,7 @@ button.accordion-button.collapsed {
 .secnewbgg {
   border: 1px solid #e9e1e1;
   margin-bottom: 25px;
-  padding: 5px;
+  padding: 10px 5px;
 }
 .secwwcount{
   width: 50%;
@@ -608,6 +608,7 @@ button.accordion-button.collapsed {
 .counter-box {
   display: block;
   text-align: center;
+  padding-bottom: 20px;
 
 }
 .counter-box p {
